@@ -11,4 +11,6 @@ Route::get('about', function () {
 Route::get('login', function () {
     return "you can login here if you want!";
 });
-
+Route::get('contact', function () {
+    return "you can login here if you want!";
+});
