@@ -8,4 +8,7 @@ Route::get('/', function () {
 Route::get('about', function () {
     return "you have found the secret page!";
 });
+Route::get('login', function () {
+    return "you can login here if you want!";
+});
 
