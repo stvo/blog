@@ -14,3 +14,7 @@ Route::get('login', function () {
 Route::get('contact', function () {
     return "contact page!";
 });
+Route::get('admin', function () {
+    return "Here will we show our admin page";
+});
+
