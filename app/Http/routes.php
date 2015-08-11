@@ -12,5 +12,5 @@ Route::get('login', function () {
     return "you can login here if you want!";
 });
 Route::get('contact', function () {
-    return "contact page!";
+    return "this is my contact page!";
 });
